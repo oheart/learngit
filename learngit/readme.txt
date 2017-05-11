@@ -2,4 +2,4 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has s mutable index called stage.
 Git tracks changes.
-Greeting a new branch is quick & simple.
+Greeting a new branch is quick & simple1.
